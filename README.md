@@ -2,6 +2,8 @@
 
 This repository contains the implementation of our proposed deep learning-based beamforming approach for near-field massive MIMO systems. The model leverages neural networks to optimize beamforming vectors, improving achievable rates while maintaining computational efficiency.
 
+This work is based on the research paper: **[Near-Field Beam Training for Extremely Large-Scale MIMO Based on Deep Learning](https://ieeexplore.ieee.org/document/10682562)**.
+
 ## Repository Structure
 
 - `model.py`: Defines the neural network architecture for beamforming optimization.
