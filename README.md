@@ -1,4 +1,4 @@
-# Deep Learning-Based Beamforming for Near-Field Massive MIMO
+# Near-Field Beam Training for Extremely Large-Scale MIMO Based on Deep Learning
 
 This repository contains the implementation of our proposed deep learning-based beamforming approach for near-field massive MIMO systems. The model leverages neural networks to optimize beamforming vectors, improving achievable rates while maintaining computational efficiency.
 
